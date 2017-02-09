@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: a8cebccd5b6d4264b887f9846fb207a5
+timeCreated: 1486409561
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Chest
+    100002: //RootNode
+    100004: Engineer_baseBody_Shape
+    100006: Engineer_bullet_Shape
+    100008: Engineer_chisel_Shape
+    100010: Engineer_equipment_Shape
+    100012: Engineer_flashLight_Shape
+    100014: Engineer_screwdrivers_Shape
+    100016: Engineer_spanner_Shape
+    100018: Hip
+    100020: Main_Joint
+    100022: R_Elbow
+    100024: R_Finger
+    100026: R_Hip
+    100028: R_Shoulder
+    100030: R_Wrist
+    100032: Root
+    100034: shotGun_Pump
+    100036: shotGunBody
+    100038: Waist
+    100040: wrenchLow
+    400000: Chest
+    400002: //RootNode
+    400004: Engineer_baseBody_Shape
+    400006: Engineer_bullet_Shape
+    400008: Engineer_chisel_Shape
+    400010: Engineer_equipment_Shape
+    400012: Engineer_flashLight_Shape
+    400014: Engineer_screwdrivers_Shape
+    400016: Engineer_spanner_Shape
+    400018: Hip
+    400020: Main_Joint
+    400022: R_Elbow
+    400024: R_Finger
+    400026: R_Hip
+    400028: R_Shoulder
+    400030: R_Wrist
+    400032: Root
+    400034: shotGun_Pump
+    400036: shotGunBody
+    400038: Waist
+    400040: wrenchLow
+    2300000: Engineer_baseBody_Shape
+    2300002: Engineer_bullet_Shape
+    2300004: Engineer_chisel_Shape
+    2300006: Engineer_equipment_Shape
+    2300008: Engineer_flashLight_Shape
+    2300010: Engineer_screwdrivers_Shape
+    2300012: Engineer_spanner_Shape
+    2300014: shotGun_Pump
+    2300016: shotGunBody
+    2300018: wrenchLow
+    3300000: Engineer_baseBody_Shape
+    3300002: Engineer_bullet_Shape
+    3300004: Engineer_chisel_Shape
+    3300006: Engineer_equipment_Shape
+    3300008: Engineer_flashLight_Shape
+    3300010: Engineer_screwdrivers_Shape
+    3300012: Engineer_spanner_Shape
+    3300014: shotGun_Pump
+    3300016: shotGunBody
+    3300018: wrenchLow
+    4300000: Engineer_baseBody_Shape
+    4300002: wrenchLow
+    4300004: Engineer_bullet_Shape
+    4300006: Engineer_flashLight_Shape
+    4300008: shotGunBody
+    4300010: shotGun_Pump
+    4300012: Engineer_spanner_Shape
+    4300014: Engineer_chisel_Shape
+    4300016: Engineer_equipment_Shape
+    4300018: Engineer_screwdrivers_Shape
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 9
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
